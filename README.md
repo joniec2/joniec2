@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joniec2
-- 👀 I’m interested in gym, IT 
+- 👀 I’m interested in gym, IT, latino dance
 - 🌱 I’m currently learning flask and django apps 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 2 ways
