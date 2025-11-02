@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joniec2
 - 👀 I’m interested in gym, IT, latino dance
-- 🌱 I’m currently learning flask and django apps 
+- 🌱 I’m currently db engines (MSSQL|DB2|Oracle|Postgresql)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 2 ways
 - 📨 krzysztofjonczyk@outlook.com
