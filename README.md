@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joniec2
+- 👋 Hi, I’m Krzysztof Jończyk
 - 👀 I’m interested in gym, IT, latino dance
 - 🌱 I’m currently db engines (MSSQL|DB2|Oracle|Postgresql)
 - 💞️ I’m looking to collaborate on ...
